@@ -10,3 +10,11 @@
 - 兼容 PC、平板和手机
 
 预览地址：https://ziping-li.github.io/ant-design-vue3-admin/#/dashboard/overview
+
+
+
+npm run build;
+npm run serve;
+
+
+
