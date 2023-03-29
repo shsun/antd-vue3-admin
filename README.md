@@ -11,6 +11,8 @@
 
 预览地址：https://ziping-li.github.io/ant-design-vue3-admin/#/dashboard/overview
 
+node --version 	v16.15.0
+npm -version  	8.11.0
 
 
 npm run build;
